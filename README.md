@@ -9,12 +9,12 @@
 > "People don't know what they want until you show it to them." — Steve Jobs
 
 ## ES
-Soy **Desarrollador Fullstack** y **Arquitecto de Software** en cierta medida. Actualmente curso mi 4to año de Ingeniería en Ciencias Informáticas con un promedio académico de **4.75** y me apasiona construir herramientas que marquen un antes y un después.
+Soy **Desarrollador Fullstack** y **Arquitecto de Software**. Actualmente curso mi 4to año de Ingeniería en Ciencias Informáticas con un promedio académico de **4.75** y me apasiona construir herramientas que marquen puntos de inflexión.
 
 Soy el fundador y arquitecto líder de [**Modus Zero**](https://github.com/ModusZero), donde pretendo explorar el futuro del software development con Agentic Engineering, para ver más sobre el tema revisa el [portal](https://moduszero.github.io/landing).
 
 ## EN
-*I am a **Fullstack Developer** and **Software Architect** until some point. I am currently in my 4th year of Computer Science Engineering with a **4.75** GPA, and I am passionate about building tools that create a turning point.*
+*I am a **Fullstack Developer** and **Software Architect**. I'm currently in my 4th year of Computer Science Engineering with a **4.75** GPA, and I am passionate about building apps that create a turning point.*
 
 *I'm the founder and lead architect of [**Modus Zero**](https://github.com/ModusZero), where i want to explore the future of software development with Agentic Engineering, to learn more about it, check out the [portal](https://moduszero.github.io/landing).*
 
