@@ -75,6 +75,11 @@ Soy el fundador y arquitecto líder de [**Modus Zero**](https://github.com/Modus
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=tokyonight" alt="Stats de Luis" />
 </p>
 
+#### 📊 Gráfico de Contribuciones | Contribution Graph
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/Luke1606" alt="GitHub Contribution Graph" />
+</p>
+
 #### 💻 Lenguajes más usados | Top used languages
 
 <p align="center">
