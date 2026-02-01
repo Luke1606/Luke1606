@@ -68,41 +68,39 @@ Soy el fundador y arquitecto líder de [**Modus Zero**](https://github.com/Modus
 ---
 ---
 ### Resumen de stadísticas | Stats summary
+### 📊 Resumen de Estadísticas | Stats Summary
 
-#### ⭐ Estadísticas de GitHub | GitHub Stats
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=tokyonight" alt="Stats de Luis" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luke1606&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=e0af68&area=true" alt="Activity Graph" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luke1606&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=tokyonight" alt="Stats de Luis" />
-</p>
-
-#### 📊 Gráfico de Contribuciones | Contribution Graph
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/Luke1606" alt="GitHub Contribution Graph" />
-</p>
-
-#### 💻 Lenguajes más usados | Top used languages
-
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
-
-#### 🌌 Racha Actual | Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luke1606&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-#### 📈 Actividad según WakaTime (lo instalé hace poco) | Activity according to Wakatime (I just installed it)
-<p align="center">
+  <b>Tiempo en el código (WakaTime):</b><br>
   <img src="https://wakatime.com/badge/user/b4702c1e-8c0d-48b8-964b-356c42f3b8fc.svg" alt="Stats de WakaTime" /> 
 </p>
 
 ---
 ### Principales proyectos | Top projects
 
-| Proyecto | Descripción | Stack |
-| --- | --- | --- |
-| **🚀 Modus Zero** | Ecosistema de desarrollo de software basado en IA. El principal producto es `Mod0`, un editor de código "diferente" que redefine la ejecución artificial. | `TypeScript`, `React`, `Electron`, `Astro`, `TailwindCSS`, `Node.js`, `Rust`, `MCP`  
-| **🛡️ Vigitech** | Plataforma de vigilancia tecnológica con microservicios. | `TypeScript`, `React`, `TailwindCSS`, `Nestjs`, `Prisma`, `PostgreSQL`, `Docker`
+| Proyecto &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Descripción | Stack |
+| :--- | :--- | :--- |
+| 🚀 [**ModusZero**](https://github.com/ModusZero) | Ecosistema de desarrollo de software basado en IA cuyo principal producto es `Mod0`. | `TypeScript`, `React`, `Electron`, `Astro`, `Node.js`, `Rust` |
+| 🛡️ [**Vigitech**](https://github.com/Luke1606/vigitech-official) | Plataforma de vigilancia tecnológica con microservicios enfocada en Radar Tecnológico. | `TypeScript`, `React`, `Nestjs`, `Prisma`, `PostgreSQL`, `Docker` |
 
 
 ---
