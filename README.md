@@ -126,7 +126,7 @@ Soy el fundador y arquitecto líder de [**Modus Zero**](https://github.com/Modus
 </table>
 
 <p align="center">
-  <b>Tiempo en el código (WakaTime):</b><br>
+  <b>Tiempo en el código (WakaTime) | Coding time (Wakatime)</b><br>
   <img src="https://wakatime.com/badge/user/b4702c1e-8c0d-48b8-964b-356c42f3b8fc.svg" alt="Stats de WakaTime" /> 
 </p>
 
@@ -153,4 +153,4 @@ Soy el fundador y arquitecto líder de [**Modus Zero**](https://github.com/Modus
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LuisAlbert21854)
 
 ---
-*Just another dev.*
+> [!TIP] *Just another dev.*
