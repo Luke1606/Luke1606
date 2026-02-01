@@ -4,8 +4,6 @@
   <img width="1024" height="300" alt="banner_github" src="https://github.com/user-attachments/assets/71aafe8e-81e4-4142-bb15-4d92bada68c8" />
 </p>
 
-
-
 > "Muchas veces la gente no sabe lo que quiere hasta que se lo enseñas." — Steve Jobs
 
 ## ES
@@ -17,26 +15,6 @@ Soy el fundador y arquitecto líder de [**Modus Zero**](https://github.com/Modus
 *I am a **Fullstack Developer** and **Software Architect** until some point. I am currently in my 4th year of Computer Science Engineering with a **4.75** GPA, and I am passionate about building tools that create a turning point.*
 
 *I'm the founder and lead architect of [**Modus Zero**](https://github.com/ModusZero), where i want to explore the future of software development with Agentic Engineering, to learn more about it, check out the [portal](https://moduszero.github.io/landing).*
-
----
-### Resumen de stadísticas | Stats summary
-#### ⭐ Estadísticas de GitHub | GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=tokyonight" alt="Stats de Luis" />
-  
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
-
-#### 📈 Actividad según WakaTime (lo instalé hace poco) | Activity according to Wakatime (I just installed it)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Luke1606&layout=compact&theme=tokyonight" alt="Stats de WakaTime" />
-</p>
-
-### 📈 Actividad Detallada | Metrics
-<p align="center">
-  <img src="https://metrics.lecoq.io/Luke1606?base=header%2C%20repositories%2C%20metadata&base.indepth=false&config.timezone=America%2FNew_York&theme=tokyonight" alt="GitHub Metrics" />
-</p>
 
 ---
 ### **Tecnologías que manejo | Technologies I handle**
@@ -86,6 +64,32 @@ Soy el fundador y arquitecto líder de [**Modus Zero**](https://github.com/Modus
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+---
+### Resumen de stadísticas | Stats summary
+
+#### ⭐ Estadísticas de GitHub | GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=tokyonight" alt="Stats de Luis" />
+</p>
+
+#### 💻 Lenguajes más usados | Top used languages
+
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</p>
+
+#### 🌌 Racha Actual | Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luke1606&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+#### 📈 Actividad según WakaTime (lo instalé hace poco) | Activity according to Wakatime (I just installed it)
+<p align="center">
+  <img src="https://wakatime.com/badge/user/b4702c1e-8c0d-48b8-964b-356c42f3b8fc.svg" alt="Stats de WakaTime" /> 
+</p>
 
 ---
 ### Principales proyectos | Top projects
