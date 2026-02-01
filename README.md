@@ -4,7 +4,9 @@
   <img width="1024" height="300" alt="banner_github" src="https://github.com/user-attachments/assets/71aafe8e-81e4-4142-bb15-4d92bada68c8" />
 </p>
 
-> "Muchas veces la gente no sabe lo que quiere hasta que se lo enseñas." | "People don't know what they want until you show it to them." — Steve Jobs
+> "Muchas veces la gente no sabe lo que quiere hasta que se lo enseñas." — Steve Jobs
+> 
+> "People don't know what they want until you show it to them." — Steve Jobs
 
 ## ES
 Soy **Desarrollador Fullstack** y **Arquitecto de Software** en cierta medida. Actualmente curso mi 4to año de Ingeniería en Ciencias Informáticas con un promedio académico de **4.75** y me apasiona construir herramientas que marquen un antes y un después.
