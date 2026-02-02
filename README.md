@@ -153,4 +153,5 @@ Soy el fundador y arquitecto líder de [**Modus Zero**](https://github.com/Modus
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LuisAlbert21854)
 
 ---
-> [!TIP] *Just another dev.*
+> [!TIP]
+> *Just another dev.*
