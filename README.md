@@ -9,14 +9,10 @@
 > "People don't know what they want until you show it to them." — Steve Jobs
 
 ## ES
-Soy **Desarrollador Fullstack** y **Arquitecto de Software**. Actualmente curso mi 4to año de Ingeniería en Ciencias Informáticas con un promedio académico de **4.75** y me apasiona construir herramientas que marquen puntos de inflexión.
-
-Soy el fundador y arquitecto líder de [**Modus Zero**](https://github.com/ModusZero), donde pretendo explorar el futuro del software development con Agentic Engineering, para ver más sobre el tema revisa el [portal](https://moduszero.github.io/landing).
+**Arquitecto de Software** & **Desarrollador Web Holístico** especializado en *stacks* basados en *TypeScript*, ya sea *frontend* o *backend*. Fundador y Arquitecto Líder de [**Modus Zero**](https://github.com/ModusZero), ecosistema que pretende explorar el futuro del **desarrollo de software** con **Ingeniería de Agentes** (ver más en el [portal](https://moduszero.github.io/landing)).
 
 ## EN
-*I am a **Fullstack Developer** and **Software Architect**. I'm currently in my 4th year of Computer Science Engineering with a **4.75** GPA, and I am passionate about building apps that create a turning point.*
-
-*I'm the founder and lead architect of [**Modus Zero**](https://github.com/ModusZero), where i want to explore the future of software development with Agentic Engineering, to learn more about it, check out the [portal](https://moduszero.github.io/landing).*
+**Software Architect** & **Holistic Web Developer** with expertise in TypeScript-based stacks, either frontend or backend. Founder and Lead Architect of [**Modus Zero**](https://github.com/ModusZero), an ecosystem that pretends to explore the future of **Software Development** with **Agentic Engineering** (see more in the [landing](https://moduszero.github.io/landing)).
 
 ---
 ### 🛠️ Tecnologías que manejo | Technologies I handle
@@ -28,6 +24,8 @@ Soy el fundador y arquitecto líder de [**Modus Zero**](https://github.com/Modus
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -43,62 +41,34 @@ Soy el fundador y arquitecto líder de [**Modus Zero**](https://github.com/Modus
     </td>
     <td align="left" valign="top" width="33%">
       <b>⚡ Backend</b><br>
-      <img src="https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="left" valign="top">
-      <b>🗄️ Databases & ORMs</b><br>
+      <b>🗄️ Databases </b><br>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostGIS-316192?style=flat-square&logo=postgis&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+    </td>
+    <td align="left" valign="top">
+      <b>📊 ORMs</b><br>
       <img src="https://img.shields.io/badge/Django_ORM-092E20?style=flat-square&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeORM-FE0808?style=flat-square&logo=typeorm&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
     </td>
     <td align="left" valign="top">
-      <b>🤖 AI & Data Science</b><br>
-      <img src="https://img.shields.io/badge/Agents-FFCA28?style=flat-square&logo=chainlink&logoColor=black" />
-      <img src="https://img.shields.io/badge/Prompting-412991?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-    </td>
-    <td align="left" valign="top">
       <b>☁️ Infra & DevTools</b><br>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left" valign="top">
-      <b>🌍 GIS & Data Mapping</b><br>
-      <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" />
-      <img src="https://img.shields.io/badge/GEE_API-4285F4?style=flat-square&logo=google-earth&logoColor=white" />
-      <img src="https://img.shields.io/badge/Datawrapper-FF1744?style=flat-square&logo=datawrapper&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
-      <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
-      <img src="https://img.shields.io/badge/ArcGIS-007AC2?style=flat-square&logo=arcgis&logoColor=white" />
-    </td>
-    <td align="left" valign="top" colspan="2">
-      <b>🛠️ Otros | Others</b><br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white" />
-      <img src="https://img.shields.io/badge/ngrok-1F1E1E?style=flat-square&logo=ngrok&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
     </td>
   </tr>
 </table>
