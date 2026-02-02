@@ -8,10 +8,9 @@
 > 
 > "People don't know what they want until you show it to them." — Steve Jobs
 
-## ES
+---
 **Arquitecto de Software** & **Desarrollador Web Holístico** especializado en *stacks* basados en *TypeScript*, ya sea *frontend* o *backend*. Fundador y Arquitecto Líder de [**Modus Zero**](https://github.com/ModusZero), ecosistema que pretende explorar el futuro del **desarrollo de software** con **Ingeniería de Agentes** (ver más en el [portal](https://moduszero.github.io/landing)).
 
-## EN
 **Software Architect** & **Holistic Web Developer** with expertise in TypeScript-based stacks, either frontend or backend. Founder and Lead Architect of [**Modus Zero**](https://github.com/ModusZero), an ecosystem that pretends to explore the future of **Software Development** with **Agentic Engineering** (see more in the [landing](https://moduszero.github.io/landing)).
 
 ---
