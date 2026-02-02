@@ -56,8 +56,8 @@
     </td>
     <td align="left" valign="top">
       <b>📊 ORMs</b><br>
-      <img src="https://img.shields.io/badge/Django_ORM-092E20?style=flat-square&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django_ORM-092E20?style=flat-square&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeORM-FE0808?style=flat-square&logo=typeorm&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
     </td>
