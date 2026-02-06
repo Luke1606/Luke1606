@@ -95,18 +95,9 @@
 </table>
 
 <p align="center">
-  <b>Tiempo en el código (WakaTime) | Coding time (Wakatime)</b><br>
+  <b>Tiempo en el código (desde 1ro de febrero de 2026) | Coding time (since Feb 1, 2026)</b><br>
   <img src="https://wakatime.com/badge/user/b4702c1e-8c0d-48b8-964b-356c42f3b8fc.svg" alt="Stats de WakaTime" /> 
 </p>
-
----
-### 💻 Principales proyectos | Top projects
-
-| Proyecto &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Descripción | Stack |
-| :--- | :--- | :--- |
-| 🚀 [**ModusZero**](https://github.com/ModusZero) | Ecosistema de desarrollo de software basado en IA cuyo principal producto es `Mod0`. | `TypeScript`, `React`, `Electron`, `Astro`, `Node.js`, `Rust` |
-| 🛡️ [**Vigitech**](https://github.com/Luke1606/vigitech-official) | Plataforma de vigilancia tecnológica con microservicios enfocada en Radar Tecnológico. | `TypeScript`, `React`, `Nestjs`, `Prisma`, `PostgreSQL`, `Docker` |
-
 
 ---
 ### Cómo contactarme | How to contact me
@@ -115,11 +106,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luke1606)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke1060-dev)
 
-#### Otras (advierto: ni siquiera las reviso) | Others (disclaimer: I don't even check these)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/luis.hernandez.rosello)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luke16_06)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@luke16_06)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LuisAlbert21854)
+#### Otras | Others
+[![Gravatar](https://img.shields.io/badge/Gravatar--00599C?style=for-the-badge&logo=gravatar&logoColor=white)](https://gravatar.com/breadalmostbaf14a44bc)
 
 ---
 > [!TIP]
