@@ -1,7 +1,11 @@
 # Hola, Soy Luis Alberto | Hi, I'm Luis Alberto
 
 <p align="center">
-  <img width="1024" height="300" alt="banner_github" src="https://github.com/user-attachments/assets/71aafe8e-81e4-4142-bb15-4d92bada68c8" />
+   <picture>
+      <source media="(prefers-color-scheme: dark)" alt="banner-dark" srcset="https://github.com/user-attachments/assets/71aafe8e-81e4-4142-bb15-4d92bada68c8">
+      <source media="(prefers-color-scheme: light)" alt="banner-light" srcset="https://github.com/user-attachments/assets/2ee7d788-31f3-421d-b73e-ff6b382c342a">
+      <img width="1024" height="300" alt="banner_github" src="https://github.com/user-attachments/assets/71aafe8e-81e4-4142-bb15-4d92bada68c8" />
+    </picture>
 </p>
 
 > "Muchas veces la gente no sabe lo que quiere hasta que se lo enseñas." — Steve Jobs
@@ -79,22 +83,37 @@
 <table align="center" border="0">
   <tr>
     <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=tokyonight" alt="Stats de Luis" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=tokyonight">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=default">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=tokyonight" alt="Stats de Luis" />
+      </picture>
     </td>
     <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luke1606&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=e0af68&area=true" alt="Activity Graph" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Luke1606&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=e0af68&area=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Luke1606&bg_color=ffffff&color=0366d6&line=0366d6&point=f1e05a&area=true">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luke1606&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=e0af68&area=true" alt="Activity Graph" />
+      </picture>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=tokyonight">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=default">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+      </picture>
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luke1606&theme=tokyonight" alt="GitHub Streak" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Luke1606&theme=tokyonight">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Luke1606&theme=default">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luke1606&theme=tokyonight" alt="GitHub Streak" />
+      </picture>
     </td>
   </tr>
 </table>
-
 <p align="center">
   <b>Tiempo en el código (desde 1ro de febrero de 2026) | Coding time (since Feb 1, 2026)</b><br>
   <img src="https://wakatime.com/badge/user/b4702c1e-8c0d-48b8-964b-356c42f3b8fc.svg" alt="Stats de WakaTime" /> 
