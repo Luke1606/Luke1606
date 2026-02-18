@@ -100,9 +100,9 @@
   <tr>
     <td align="center" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Luke1606,ModusZero&layout=compact&theme=tokyonight&card_width=400&langs_count=8">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Luke1606,ModusZero&layout=compact&theme=default&card_width=400&langs_count=8">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luke1606,ModusZero&layout=compact&theme=tokyonight&card_width=400&langs_count=8" alt="Lenguajes más usados" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=tokyonight&card_width=400&langs_count=8">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=default&card_width=400&langs_count=8">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=tokyonight&card_width=400&langs_count=8" alt="Lenguajes más usados" />
       </picture>
     </td>
     <td align="center" valign="top">
