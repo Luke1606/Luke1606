@@ -8,7 +8,7 @@
     </picture>
 </p>
 
-> "Muchas veces la gente no sabe lo que quiere hasta que se lo enseñas." — Steve Jobs
+> "La gente no sabe lo que quiere hasta que se lo enseñas." — Steve Jobs
 > 
 > "People don't know what they want until you show it to them." — Steve Jobs
 
@@ -100,9 +100,9 @@
   <tr>
     <td align="center" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=tokyonight">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=default">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606,ModusZero&layout=compact&theme=tokyonight">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606,ModusZero&layout=compact&theme=default">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606,ModusZero&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
       </picture>
     </td>
     <td align="center" valign="top">
