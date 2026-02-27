@@ -81,44 +81,31 @@
 ---
 ### 📊 Resumen de Estadísticas | Stats Summary
 
-<table align="center" border="0">
+<table align="center" border="0" width="100%" cellpadding="0" cellspacing="10">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="middle" width="33%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=tokyonight">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=default">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=tokyonight" alt="Stats de Luis" />
+        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=tokyonight" alt="Stats" width="100%" height="100%" />
       </picture>
     </td>
-    <td align="center" valign="top" width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Luke1606&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=e0af68&area=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Luke1606&bg_color=ffffff&color=0366d6&line=0366d6&point=f1e05a&area=true">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luke1606&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=e0af68&area=true" alt="Activity Graph" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="middle" width="33%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=tokyonight">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=default">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=tokyonight" alt="Lenguajes más usados | Top used languages" />
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=tokyonight" alt="Languages" width="100%" height="100%" />
       </picture>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="middle" width="33%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Luke1606&theme=tokyonight">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Luke1606&theme=default">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luke1606&theme=tokyonight" alt="GitHub Streak" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Luke1606&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=e0af68&area=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Luke1606&bg_color=ffffff&color=0366d6&line=0366d6&point=f1e05a&area=true">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luke1606&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=e0af68&area=true" alt="Activity Graph" width="100%" height="100%" />
       </picture>
     </td>
   </tr>
 </table>
-<p align="center">
-  <b>Tiempo en el código (desde 1ro de febrero de 2026) | Coding time (since Feb 1, 2026)</b><br>
-  <img src="https://wakatime.com/badge/user/b4702c1e-8c0d-48b8-964b-356c42f3b8fc.svg" alt="Stats de WakaTime" /> 
-</p>
 
 ---
 ### Cómo contactarme | How to contact me
