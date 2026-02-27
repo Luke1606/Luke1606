@@ -81,31 +81,32 @@
 ---
 ### 📊 Resumen de Estadísticas | Stats Summary
 
-<table align="center" border="0" width="100%" cellpadding="0" cellspacing="10">
-  <tr>
-    <td align="center" valign="middle" width="33%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=tokyonight">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=default">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=tokyonight" alt="Stats" width="100%" height="100%" />
-      </picture>
-    </td>
-    <td align="center" valign="middle" width="33%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=tokyonight">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=default">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=tokyonight" alt="Languages" width="100%" height="100%" />
-      </picture>
-    </td>
-    <td align="center" valign="middle" width="33%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Luke1606&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=e0af68&area=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Luke1606&bg_color=ffffff&color=0366d6&line=0366d6&point=f1e05a&area=true">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luke1606&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=e0af68&area=true" alt="Activity Graph" width="100%" height="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Luke1606&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=e0af68&area=true&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Luke1606&bg_color=ffffff&color=0366d6&line=0366d6&point=f1e05a&area=true&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luke1606&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=e0af68&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  </picture>
+  <br><br>
+  <table align="center" border="0" width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=tokyonight&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=default&hide_border=true">
+          <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Luke1606&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" width="100%" />
+        </picture>
+      </td>
+      <td align="center" width="50%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=tokyonight&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=default&hide_border=true">
+          <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Luke1606&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" width="100%" />
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 ### Cómo contactarme | How to contact me
